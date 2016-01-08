@@ -1,0 +1,83 @@
+entry  880 560
+exit   880 360  active
+
+
+OBJECTS
+
+object   
+	fixed
+	hw 40 40
+	xy 880 400
+
+object   
+	fixed
+	hw 40 40
+	xy 880 280
+
+object   
+	fixed
+	hw 40 40
+	xy 640 480
+
+object   
+	fixed
+	hw 40 40
+	xy 560 440
+
+object   
+	fixed
+	hw 40 40
+	xy 480 480
+
+object   
+	fixed
+	hw 40 40
+	xy 520 320
+
+object   
+	fixed
+	hw 40 40
+	xy 120 360
+
+object   
+	fixed
+	hw 40 40
+	xy 600 240
+
+object   
+	fixed
+	hw 40 40
+	xy 640 160
+
+object   
+	fixed
+	hw 40 40
+	xy 80 200
+
+object   
+	fixed
+	hw 40 40
+	xy 600 40
+
+object   
+	fixed
+	hw 40 40
+	xy 40 240
+
+object   
+	fixed
+	hw 40 40
+	xy 160 80
+
+object   
+	fixed
+	hw 40 840
+	xy 40 560
+
+
+TILES
+
+
+ICE 
+
+true

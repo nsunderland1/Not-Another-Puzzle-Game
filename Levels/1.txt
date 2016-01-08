@@ -1,0 +1,208 @@
+entry 480 560
+exit 460 300  active
+
+OBJECTS
+
+object
+	fixed
+	hw 40 880
+	xy 40 200
+
+object
+	fixed
+	hw 40 880
+	xy 40 400
+
+object
+	fixed
+	hw 560 40
+	xy 320 40
+
+object
+	fixed
+	hw 560 40
+	xy 600 40
+
+TILES 
+
+tile
+	portal
+	xy 560 440
+	active
+
+tile
+	portal
+	xy 880 560
+	active
+
+
+
+tile
+	portal
+	xy 640 440
+	active
+
+tile
+	portal
+	xy 880 40
+	active
+
+
+
+tile
+	portal
+	xy 880 440
+	active
+
+tile 
+	portal
+	xy 880 240
+	active
+
+
+
+tile
+	portal
+	xy 640 560
+	active
+
+tile
+	portal
+	xy 280 440
+	active
+
+
+
+tile
+	portal
+	xy 640 240
+	active
+
+tile
+	portal
+	xy 640 40
+	active
+
+
+
+tile
+	portal
+	xy 640 360
+	active
+
+tile
+	portal
+	xy 360 40
+	active
+
+
+
+tile
+	portal
+	xy 880 360
+	active
+
+tile
+	portal
+	xy 40 240
+	active
+
+
+
+tile
+	portal
+	xy 640 160
+	active
+
+tile
+	portal
+	xy 40 40
+	active
+
+
+
+tile
+	portal
+	xy 880 160
+	active
+
+tile
+	portal
+	xy 40 440
+	active
+
+
+
+tile
+	portal
+	xy 280 40
+	active
+
+tile
+	portal
+	xy 560 40
+	active
+
+
+
+tile
+	portal
+	xy 360 160
+	active
+
+tile
+	portal
+	xy 280 240
+	active
+
+
+
+tile
+	portal
+	xy 560 160
+	active
+
+tile
+	portal
+	xy 40 560
+	active
+
+
+
+tile
+	portal
+	xy 40 160
+	active
+
+tile
+	portal
+	xy 560 360
+	active
+
+
+
+tile
+	portal
+	xy 280 160
+	active
+
+tile
+	portal
+	xy 40 360
+	active
+
+
+
+tile
+	portal
+	xy 280 360
+	active
+
+tile
+	portal
+	xy 280 560
+	active
+
+ICE
+
+false
