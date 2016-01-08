@@ -9,8 +9,7 @@ A small game I wrote for school a couple of years ago in C, using Allegro. The p
 
 ## Installation
 
-1. Move Alleg42.dll to C:\Windows\SysWOW64
-2. Launch executable
+Requires Allegro
 
 ## Instructions
 
